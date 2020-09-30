@@ -1,1 +1,0 @@
-Hi guys this is my E-commerce project using sequalize and Node
